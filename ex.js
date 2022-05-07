@@ -19,3 +19,4 @@ const arrayF = [22,300,45,78];
 // let index = 3;
 console.log(`se usar  o item vai retornar ${arrayF.at(index)}`);
 }
+
